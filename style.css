@@ -1,0 +1,80 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+  background-color: black;
+}
+body{
+  width: 70%;
+  background-color: black;
+  margin: 0 auto;
+}
+
+h1{
+font-size: 20px;
+color: rgb(255, 136, 0);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 800;
+margin: 10px;
+padding: 5px;
+text-align: center;
+
+}
+img{
+width: 25%;
+margin: auto;
+border-radius: 50%;
+border: 5px solid rgb(0, 255, 183);
+display: flex;
+align-items: center;
+}
+
+
+p{
+font-size: 20px;
+color: rgb(243, 235, 235);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 800;
+margin: 10px;
+padding: 5px;
+text-align: justify;
+
+}
+
+.parrafo1{
+font-size: 20px;
+color: rgb(0, 255, 251);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 800;
+margin: 10px;
+padding: 5px;
+text-align: justify;
+
+}
+
+.parrafo2,ol{
+font-size: 20px;
+color: rgba(255, 255, 255, 0.632);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 800;
+margin: 10px;
+padding: 5px;
+text-align: justify;
+
+}
+
+.parrafo3{
+font-size: 20px;
+color: greenyellow;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 800;
+margin: 10px;
+padding: 5px;
+text-align: justify;
+
+}
+
+
+#parrafo4{
+font-size: 20px;
+color: bisque
